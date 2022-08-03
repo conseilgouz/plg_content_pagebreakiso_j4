@@ -1,0 +1,14 @@
+<changelogs>
+	<changelog>
+		<element>plg_content_pagebreakiso</element>
+		<type>plugin</type>
+		<group>content</group>
+		<version>4.0.0</version>
+        <note>
+            <item>Update : 03/08/2022</item>
+        </note>
+        <addition>
+            <item>Joomla 4.0 compatibility</item>
+        </addition>
+	</changelog>
+</changelogs>
