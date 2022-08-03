@@ -7,7 +7,7 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>pascal.leconte@conseilgouz.com</authorEmail>
 	<authorUrl>www.conseilgouz.com</authorUrl>
-	<version>4.0.0</version>
+	<version>4.0.1</version>
 	<description>PLG_CONTENT_PAGEBREAKISO_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="pagebreakiso">pagebreakiso.php</filename>
@@ -98,4 +98,8 @@
 
 		</fields>
 	</config>
+	<updateservers>
+    <server type="extension" name="plg_content_pagebreakiso" priority="1">https://github.com/conseilgouz/updates_github/blob/main/plg_content_pagebreakiso_update.xml</server>
+   </updateservers>
+	
 </extension>
