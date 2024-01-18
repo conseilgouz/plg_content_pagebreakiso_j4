@@ -1,14 +1,15 @@
 <?php
 
 /**
- * @package     Joomla.Plugin
- * @subpackage  Content.pagebreak
+ * @package  Content.pagebreakiso : bug in pagination 
  *
- * @copyright   (C) 2006 Open Source Matters, Inc. <https://www.joomla.org>
- * @license     GNU General Public License version 2 or later; see LICENSE.txt
+ * @copyright   Copyright (C) 2024 ConseilGouz. All rights reserved.
+ * @license     GNU General Public License version 3 or later; see LICENSE.txt
+ * 
+ * bug in Joomla 3.8 => https://github.com/joomla/joomla-cms/issues/17305
  */
 
-namespace Conseilgouz\Plugin\Content\PageBreakIso\Extension;
+ namespace Conseilgouz\Plugin\Content\PageBreakIso\Extension;
 
 use Joomla\CMS\HTML\HTMLHelper;
 use Joomla\CMS\Language\Text;
