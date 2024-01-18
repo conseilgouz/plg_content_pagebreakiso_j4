@@ -3,6 +3,18 @@
 		<element>plg_content_pagebreakiso</element>
 		<type>plugin</type>
 		<group>content</group>
+		<version>5.0.0</version>
+        <note>
+            <item>Update : 18/01/2024</item>
+        </note>
+        <addition>
+            <item>Joomla 5.0 compatibility</item>
+        </addition>
+	</changelog>
+	<changelog>
+		<element>plg_content_pagebreakiso</element>
+		<type>plugin</type>
+		<group>content</group>
 		<version>4.0.0</version>
         <note>
             <item>Update : 03/08/2022</item>
