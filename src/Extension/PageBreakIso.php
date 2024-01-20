@@ -92,7 +92,7 @@ final class PageBreakIso extends CMSPlugin
         // Simple performance check to determine whether bot should process further.
         if (StringHelper::strpos($row->text, 'class="system-pagebreak') === false) {
             if ($page > 0) {
-                throw new \Exception($this->getApplication()->getLanguage()->_('JERROR_PAGE_NOT_FOUND'), 303); // 303 instead of 404
+               //  throw new \Exception($this->getApplication()->getLanguage()->_('JERROR_PAGE_NOT_FOUND'), 303); // 303 instead of 404
             }
 
             return;
