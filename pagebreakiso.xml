@@ -2,12 +2,12 @@
 <extension type="plugin" group="content" method="upgrade">
 	<name>plg_content_pagebreakiso</name>
 	<author>ConseilGouz</author>
-	<creationDate>2024-01-18</creationDate>
+	<creationDate>2024-01-20</creationDate>
 	<copyright>Copyright (C) 2024 ConseilGouz. All rights reserved.</copyright>
 	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
 	<authorEmail>pascal.leconte@conseilgouz.com</authorEmail>
 	<authorUrl>www.conseilgouz.com</authorUrl>
-	<version>5.0.0</version>
+	<version>5.0.1</version>
 	<description>PLG_CONTENT_PAGEBREAKISO_XML_DESCRIPTION</description>
 	<namespace path="src">Conseilgouz\Plugin\Content\PageBreakIso</namespace>
 	<files>
