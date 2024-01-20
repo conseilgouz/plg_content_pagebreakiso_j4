@@ -7,9 +7,10 @@
 	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
 	<authorEmail>pascal.leconte@conseilgouz.com</authorEmail>
 	<authorUrl>www.conseilgouz.com</authorUrl>
-	<version>5.0.2</version>
+	<version>5.0.3</version>
 	<description>PLG_CONTENT_PAGEBREAKISO_XML_DESCRIPTION</description>
 	<namespace path="src">Conseilgouz\Plugin\Content\PageBreakIso</namespace>
+	<scriptfile>script.php</scriptfile>
 	<files>
 		<folder plugin="pagebreakiso">services</folder>
 		<folder>src</folder>
